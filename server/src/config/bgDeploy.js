@@ -1,0 +1,1 @@
+module.exports.BG_RUNTIME = process.env.BG_RUNTIME || 'blue';
